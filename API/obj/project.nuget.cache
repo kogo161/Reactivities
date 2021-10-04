@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "S41bMOzuuvavVbi3labtpKqBEAlD/2R6Qn8ZSTfK5DY8De9cY1nCELidPlS+ERk8eW9MOEzHngh3racUEB17Zw==",
+  "dgSpecHash": "BLDC1jEYxcdQyBdzvi6ymYae7iP+wLUb1qo/+QLowN2F2Mah63WGFsHCGffwZCEU2wpuqMmG51GeBUrYoVyACQ==",
   "success": true,
   "projectFilePath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/sabakoghuashvili/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/sabakoghuashvili/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/sabakoghuashvili/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/sabakoghuashvili/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/sabakoghuashvili/.nuget/packages/microsoft.data.sqlite.core/5.0.10/microsoft.data.sqlite.core.5.0.10.nupkg.sha512",
     "/Users/sabakoghuashvili/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
