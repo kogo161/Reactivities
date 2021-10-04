@@ -1308,19 +1308,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/sabakoguashvili/.nuget/packages/": {}
+    "/Users/sabakoghuashvili/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sabakoguashvili/Desktop/Reactivities/API/API.csproj",
+      "projectUniqueName": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/sabakoguashvili/Desktop/Reactivities/API/API.csproj",
-      "packagesPath": "/Users/sabakoguashvili/.nuget/packages/",
-      "outputPath": "/Users/sabakoguashvili/Desktop/Reactivities/API/obj/",
+      "projectPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/API/API.csproj",
+      "packagesPath": "/Users/sabakoghuashvili/.nuget/packages/",
+      "outputPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/sabakoguashvili/.nuget/NuGet/NuGet.Config"
+        "/Users/sabakoghuashvili/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -1332,8 +1332,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/sabakoguashvili/Desktop/Reactivities/Application/Application.csproj": {
-              "projectPath": "/Users/sabakoguashvili/Desktop/Reactivities/Application/Application.csproj"
+            "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Application/Application.csproj": {
+              "projectPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Application/Application.csproj"
             }
           }
         }
@@ -1377,7 +1377,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -10,3 +10,15 @@
 /Users/sabakoguashvili/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
 /Users/sabakoguashvili/Desktop/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
 /Users/sabakoguashvili/Desktop/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb
+/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb

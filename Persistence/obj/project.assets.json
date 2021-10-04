@@ -953,19 +953,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/sabakoguashvili/.nuget/packages/": {}
+    "/Users/sabakoghuashvili/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sabakoguashvili/Desktop/Reactivities/Persistence/Persistence.csproj",
+      "projectUniqueName": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Persistence/Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "/Users/sabakoguashvili/Desktop/Reactivities/Persistence/Persistence.csproj",
-      "packagesPath": "/Users/sabakoguashvili/.nuget/packages/",
-      "outputPath": "/Users/sabakoguashvili/Desktop/Reactivities/Persistence/obj/",
+      "projectPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Persistence/Persistence.csproj",
+      "packagesPath": "/Users/sabakoghuashvili/.nuget/packages/",
+      "outputPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Persistence/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/sabakoguashvili/.nuget/NuGet/NuGet.Config"
+        "/Users/sabakoghuashvili/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -977,8 +977,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/sabakoguashvili/Desktop/Reactivities/Domain/Domain.csproj": {
-              "projectPath": "/Users/sabakoguashvili/Desktop/Reactivities/Domain/Domain.csproj"
+            "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/Domain.csproj": {
+              "projectPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/Domain.csproj"
             }
           }
         }
@@ -1013,7 +1013,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }
