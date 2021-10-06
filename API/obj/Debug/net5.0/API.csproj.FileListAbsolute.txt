@@ -124,3 +124,5 @@
 /Users/sabakoghuashvili/Documents/GitHub/Reactivities/API/obj/Debug/net5.0/API.genruntimeconfig.cache
 /Users/sabakoghuashvili/Documents/GitHub/Reactivities/API/bin/Debug/net5.0/MediatR.dll
 /Users/sabakoghuashvili/Documents/GitHub/Reactivities/API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/sabakoghuashvili/Documents/GitHub/Reactivities/API/bin/Debug/net5.0/AutoMapper.dll
+/Users/sabakoghuashvili/Documents/GitHub/Reactivities/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
