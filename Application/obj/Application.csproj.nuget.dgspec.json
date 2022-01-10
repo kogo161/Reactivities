@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Application/Application.csproj": {}
+    "/Users/sabakoghuashvili/Downloads/Reactivities21/Application/Application.csproj": {}
   },
   "projects": {
-    "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Application/Application.csproj": {
+    "/Users/sabakoghuashvili/Downloads/Reactivities21/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Application/Application.csproj",
+        "projectUniqueName": "/Users/sabakoghuashvili/Downloads/Reactivities21/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Application/Application.csproj",
+        "projectPath": "/Users/sabakoghuashvili/Downloads/Reactivities21/Application/Application.csproj",
         "packagesPath": "/Users/sabakoghuashvili/.nuget/packages/",
-        "outputPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Application/obj/",
+        "outputPath": "/Users/sabakoghuashvili/Downloads/Reactivities21/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sabakoghuashvili/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/Domain.csproj"
+              "/Users/sabakoghuashvili/Downloads/Reactivities21/Domain/Domain.csproj": {
+                "projectPath": "/Users/sabakoghuashvili/Downloads/Reactivities21/Domain/Domain.csproj"
               },
-              "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Persistence/Persistence.csproj"
+              "/Users/sabakoghuashvili/Downloads/Reactivities21/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/sabakoghuashvili/Downloads/Reactivities21/Persistence/Persistence.csproj"
               }
             }
           }
@@ -47,7 +47,11 @@
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[8.1.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.3.0, )"
             },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -73,14 +77,14 @@
         }
       }
     },
-    "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/Domain.csproj": {
+    "/Users/sabakoghuashvili/Downloads/Reactivities21/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/sabakoghuashvili/Downloads/Reactivities21/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/Domain.csproj",
+        "projectPath": "/Users/sabakoghuashvili/Downloads/Reactivities21/Domain/Domain.csproj",
         "packagesPath": "/Users/sabakoghuashvili/.nuget/packages/",
-        "outputPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/obj/",
+        "outputPath": "/Users/sabakoghuashvili/Downloads/Reactivities21/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sabakoghuashvili/.nuget/NuGet/NuGet.Config"
@@ -106,6 +110,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -125,14 +135,14 @@
         }
       }
     },
-    "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Persistence/Persistence.csproj": {
+    "/Users/sabakoghuashvili/Downloads/Reactivities21/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/sabakoghuashvili/Downloads/Reactivities21/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Persistence/Persistence.csproj",
+        "projectPath": "/Users/sabakoghuashvili/Downloads/Reactivities21/Persistence/Persistence.csproj",
         "packagesPath": "/Users/sabakoghuashvili/.nuget/packages/",
-        "outputPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Persistence/obj/",
+        "outputPath": "/Users/sabakoghuashvili/Downloads/Reactivities21/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sabakoghuashvili/.nuget/NuGet/NuGet.Config"
@@ -147,8 +157,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/Domain.csproj"
+              "/Users/sabakoghuashvili/Downloads/Reactivities21/Domain/Domain.csproj": {
+                "projectPath": "/Users/sabakoghuashvili/Downloads/Reactivities21/Domain/Domain.csproj"
               }
             }
           }
@@ -165,7 +175,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[5.0.10, )"
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

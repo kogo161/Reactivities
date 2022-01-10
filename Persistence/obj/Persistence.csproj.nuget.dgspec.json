@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Persistence/Persistence.csproj": {}
+    "/Users/sabakoghuashvili/Downloads/Reactivities21/Persistence/Persistence.csproj": {}
   },
   "projects": {
-    "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/Domain.csproj": {
+    "/Users/sabakoghuashvili/Downloads/Reactivities21/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/sabakoghuashvili/Downloads/Reactivities21/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/Domain.csproj",
+        "projectPath": "/Users/sabakoghuashvili/Downloads/Reactivities21/Domain/Domain.csproj",
         "packagesPath": "/Users/sabakoghuashvili/.nuget/packages/",
-        "outputPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/obj/",
+        "outputPath": "/Users/sabakoghuashvili/Downloads/Reactivities21/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sabakoghuashvili/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,14 +62,14 @@
         }
       }
     },
-    "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Persistence/Persistence.csproj": {
+    "/Users/sabakoghuashvili/Downloads/Reactivities21/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/sabakoghuashvili/Downloads/Reactivities21/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Persistence/Persistence.csproj",
+        "projectPath": "/Users/sabakoghuashvili/Downloads/Reactivities21/Persistence/Persistence.csproj",
         "packagesPath": "/Users/sabakoghuashvili/.nuget/packages/",
-        "outputPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Persistence/obj/",
+        "outputPath": "/Users/sabakoghuashvili/Downloads/Reactivities21/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sabakoghuashvili/.nuget/NuGet/NuGet.Config"
@@ -78,8 +84,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/Users/sabakoghuashvili/Documents/GitHub/Reactivities/Domain/Domain.csproj"
+              "/Users/sabakoghuashvili/Downloads/Reactivities21/Domain/Domain.csproj": {
+                "projectPath": "/Users/sabakoghuashvili/Downloads/Reactivities21/Domain/Domain.csproj"
               }
             }
           }
@@ -96,7 +102,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[5.0.10, )"
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
